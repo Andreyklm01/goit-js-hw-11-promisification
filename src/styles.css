@@ -18,3 +18,9 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+.title {
+  color: teal;
+  font-size: 27px;
+  text-align: center;
+}
